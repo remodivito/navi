@@ -1,0 +1,31 @@
+{
+  "about": "Navi's pixel owl: the base 12×11 grid (rows top to bottom), what each letter means, and where the owl sits on the 16×15 canvas that leaves room for sparks and Zs. Mood frames are drawn from this grid by code (Owl.frame in NaviCore). '.' is transparent.",
+  "grid": [
+    "B..........B",
+    "BBBBBBBBBBBB",
+    "BFFFFFFFFFFB",
+    "BFFFFFFFFFFB",
+    "BFFwkFFwkFFB",
+    "BFFkkFFkkFFB",
+    "BBBBBYYBBBBB",
+    "BBBBBBBBBBbb",
+    "BBBBBBBBBBbb",
+    "BBBBBBBBBBbb",
+    ".Y........Y."
+  ],
+  "palette": {
+    "B": "#935C40",
+    "b": "#7A4A33",
+    "F": "#F0EBC2",
+    "k": "#141418",
+    "w": "#FFFFFF",
+    "Y": "#F2B33D",
+    "c": "#C9746A",
+    "z": "#B5D4F4",
+    "s": "#85B7EB",
+    "q": "#FFF1DA",
+    "r": "#E24B4A"
+  },
+  "origin": [2, 3],
+  "canvas": [16, 15]
+}

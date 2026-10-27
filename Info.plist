@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Navi</string>
+	<key>CFBundleExecutable</key>
+	<string>Navi</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>io.github.remodivito.navi</string>
+	<key>CFBundleName</key>
+	<string>Navi</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.4.0</string>
+	<key>CFBundleVersion</key>
+	<string>5</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Navi saves notes you ask it to keep in Notes.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Navi listens while you hold the shortcut so you can ask out loud.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Navi sets reminders you ask for, such as when to practise something again.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Navi sets reminders you ask for, such as when to practise something again.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Navi turns what you say into text on your Mac.</string>
+	<key>NaviReleaseStage</key>
+	<string>beta</string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>https://github.com/remodivito/navi/releases/latest/download/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>bpS+E+ITzPJge37Efkw8cSRmm0U7s+IIzb8XYHUQu3k=</string>
+	<key>SUScheduledCheckInterval</key>
+	<integer>86400</integer>
+</dict>
+</plist>

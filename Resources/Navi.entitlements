@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Hold-to-talk and dictation listen through the microphone; the hardened runtime needs it declared. -->
+    <key>com.apple.security.device.audio-input</key>
+    <true/>
+    <!-- Saving a note: Navi asks Notes to make it (Apple Events), after macOS asks the user once. -->
+    <key>com.apple.security.automation.apple-events</key>
+    <true/>
+    <!-- Setting a reminder in Reminders, after macOS asks the user once. -->
+    <key>com.apple.security.personal-information.calendars</key>
+    <true/>
+</dict>
+</plist>

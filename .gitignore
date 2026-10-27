@@ -1,0 +1,15 @@
+# Local dev marker: makes History keep screenshots. Never commit or ship it.
+.dev-build
+# Opt-in Kokoro voice build marker.
+.with-kokoro
+
+# Build output
+.build/
+Navi.app/
+dist/
+
+.DS_Store
+
+# Python virtual environments
+.venv/
+
